@@ -1,8 +1,3 @@
-#pondering questions
-# Set reward at start state to 0???	
-#important note !!!
-#row and cols indices are swapped. (col,row) in exercises but (row,col) written in code..
-
 import numpy as np
 from action import actions
 import matplotlib.pyplot as plt
